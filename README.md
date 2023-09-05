@@ -47,21 +47,21 @@ To train the CNN model, I used the dataset mentioned above. The training process
 
 - **Optimizer**: I employed a suitable optimizer (e.g., Adam, SGD) to update the model's weights during training.
 
-The training script can be found in the `train.py` file. You can use this script to train the model on your own dataset or fine-tune the parameters to fit your specific requirements.
+The training script can be found in the `cnn.py` file. You can use this script to train the model on your own dataset or fine-tune the parameters to fit your specific requirements.
 
 ## Evaluation
 
-The model's performance was evaluated using various metrics, including accuracy, precision, recall, and F1-score, depending on the research problem's nature. The evaluation results are provided in the `evaluation.ipynb` Jupyter Notebook.
+The model's performance was evaluated using various metrics, including accuracy, precision, recall, and F1-score, depending on the research problem's nature. The evaluation results are provided in the `cnn.py` python file or the Final Report.
 
 ## Results
 
 The results of this project are outlined in the research paper's abstract, which served as the basis for this project. The CNN's performance and its contribution to achieving the research objectives are discussed in detail in the paper.
 
-For more detailed information and to reproduce the results, please refer to the research paper linked in the abstract. You can find the research paper in the `paper.pdf` file in this repository.
+For more detailed information and to reproduce the results, please refer to the research paper linked in the abstract. You can find the research paper in the `Final Report.pdf` file in this repository.
 
 ## Contributors
 
-This project was completed as part of the coursework for ECE324 - Machine Intelligence, Software & Neural Network. The author of this project is [Your Name]. For questions or inquiries, please feel free to contact me at [Your Email Address].
+This project was completed as part of the coursework for ECE324 - Machine Intelligence, Software & Neural Network. The author of this project is India Tory, Nida Copty, and Thomas Nguyen (myself). For questions or inquiries, please feel free to contact me at tomasdfgh.nguyen@mail.utoronto.ca.
 
 ## Acknowledgments
 
